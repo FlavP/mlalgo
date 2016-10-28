@@ -8,4 +8,8 @@ from collections import Counter
 
 lemmi = WordNetLemmatizer()
 hm_lines = 10000000
+<<<<<<< HEAD
 #uite un comentariu
+=======
+
+>>>>>>> f2f97c65537166b4a70621c370486ebe74e574f5
